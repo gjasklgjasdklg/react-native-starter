@@ -60,3 +60,5 @@ jest_coverage
 
 # CocoaPods
 /ios/Pods/
+
+/.vscode
